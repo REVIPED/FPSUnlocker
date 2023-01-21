@@ -9,4 +9,5 @@ Auto-updating ROBLOX FPSUnlocker
 - Unzip onto desktop
 - Run RBXFPS.exe
 
--Settings on bottom right
+- Settings on bottom right
+
