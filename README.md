@@ -12,3 +12,7 @@ Auto-updating ROBLOX FPSUnlocker
 
 - Settings on bottom right
 
+# Instructional Videos
+- Clips, videos showing how to properly download & run.
+
+https://streamable.com/vkas6v
