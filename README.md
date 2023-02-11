@@ -2,6 +2,7 @@
 Auto-updating ROBLOX FPSUnlocker
 
 - Requires Anti-Virus to be disabled the first time after installation to active auto-updating.
+(only one time, after first time this isn't required and you can open it normally)
 - Automatically applies on startup.
 - Toggle FPS Booster mode in settings.
 
