@@ -13,6 +13,11 @@ Auto-updating ROBLOX FPSUnlocker
 
 - Settings on bottom right
 
+# New Features
++ Set FPS limit based on game
++ Load up time increased by 85%
++ Ability to share presets to others
+
 # Instructional Videos
 - Clips, videos showing how to properly download & run.
 
