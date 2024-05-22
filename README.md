@@ -15,17 +15,13 @@ Auto-updating ROBLOX FPSUnlocker
 
 # New Features
 + Set FPS limit based on game
++ Allows you to toggle FPS in-game via Keybind
++ Apply Macro's to FPS Limits
++ Bug Fixes
 
-
-www.hdtoday.tv
-www.youtube.com
 + Load up time increased by 85%
 + Ability to share presets to others
 
 # Instructional Videos
 - Clips, videos showing how to properly download & run.
 
-Coming soon.
-
-www.chatgpt.com
-https://www.tiktok.com/
